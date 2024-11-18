@@ -1,0 +1,18 @@
+{
+  "requestId": "001",
+  "type": "Medical Emergency",
+  "priority": 3,
+  "dispatchTime": "2024-11-18T15:01:49.537Z"
+}
+{
+  "requestId": "002",
+  "type": "Flood Rescue",
+  "priority": 2,
+  "dispatchTime": "2024-11-18T15:02:24.746Z"
+}
+{
+  "requestId": "003",
+  "type": "Property Damage",
+  "priority": 1,
+  "dispatchTime": "2024-11-18T15:02:38.960Z"
+}
