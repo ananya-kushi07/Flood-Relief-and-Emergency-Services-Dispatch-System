@@ -24,7 +24,7 @@ flood-relief-system/
 # Setup and Installation
 Follow these steps to set up the project:
 
-Clone the repository: git clone https://github.com/yourusername/flood-relief-system.git
+Clone the repository: git clone https://github.com/ananya-kushi07/Flood-Relief-and-Emergency-Services-Dispatch-System.git
 cd flood-relief-system
 Install dependencies: Ensure you have Node.js installed. Run the following to install required packages:
 
